@@ -14,4 +14,8 @@
 
 <style>
 	/*每个页面公共css */
+
+	@import './styles/base.wxss';
+	@import './styles/iconfont.wxss';
+	@import "/wxcomponents/vant-weapp/common/index.wxss";
 </style>
